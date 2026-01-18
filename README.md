@@ -56,7 +56,7 @@
 
  ##
 
-<details align="center">  
+<details>  
   <summary>
       <samp>
         <b>More Info</b>
