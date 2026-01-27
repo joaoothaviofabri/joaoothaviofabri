@@ -34,14 +34,14 @@
 <div>
   <a href="https://github.com/joaoothaviofabri">
 
-   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoothaviofabri&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoothaviofabri&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=aura_dark&utcOffset=8) |
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=aura_dark&utcOffset=8&exclude={exclude}) |
 | :-: | :-: | :-: |
 
 </div>
 
 <div align="center">
  
-   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=aura_dark) |
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) |
 | :-: |
 
 </div>
