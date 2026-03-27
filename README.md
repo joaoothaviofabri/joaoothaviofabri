@@ -60,6 +60,7 @@
    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <!-- <img width="40" src=" "> -->
   <!-- <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg"> -->
