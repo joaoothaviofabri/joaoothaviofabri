@@ -19,7 +19,7 @@
 <!-- Apresentação -->
 <div align="center">
  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=24&duration=3450&pause=1000&color=F77B7B&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;I+am+studying+the+Areas+of%3A;Cyber+Security;and+Database;Be+Welcome!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=24&duration=3450&pause=1000&color=F77B7B&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;I+am+studying+the+Areas+of%3A;Cyber+Security;and+Database;Be+Welcome!)](https://github.com/joaoothaviofabri)
   
 </div>
 
@@ -52,12 +52,17 @@
 <!-- Linguagens e Tecnologias -->
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GameMakerStudio.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg"> 
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <!-- <img width="40" src=" "> -->
-  <!-- <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg"> -->
 </div>
 
  ##
