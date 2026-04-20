@@ -4,7 +4,8 @@
 <!-- Gif do Haunter -->
 <div align="center" witdh="100%">
   <a href="https://github.com/joaoothaviofabri">
-    <img src="https://imgur.com/VyD8Yvt.png" width="200">
+    <img src="https://github.com/user-attachments/assets/4cbfd551-9b31-4842-abf1-277d4145ea98" width="200">
+
 </div>
 
 <!-- Nome e Hack em Japonês -->
