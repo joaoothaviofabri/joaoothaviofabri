@@ -36,7 +36,7 @@
 <div align="center">
   <a href="https://github.com/joaoothaviofabri">
     
-  | <img height="220em" src="https://github-readme-stats.vercel.app/api?username=joaoothaviofabri&rank_icon=github&theme=date_night"/> | <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoothaviofabri&layout=donut&theme=date_night&hide=jupyter%20notebook"/> |
+  | <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaoothaviofabri&rank_icon=github&theme=date_night"/> | <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoothaviofabri&layout=donut&theme=date_night&hide=jupyter%20notebook"/> |
 | :-: | :-: |
 
 </div>
@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://github.com/joaoothaviofabri">
 
-  | <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=date_night&utcOffset=8&exclude={exclude}"/> | <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=date_night&exclude={exclude}"/> |
+  | <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=date_night&utcOffset=8&exclude={exclude}"/> | <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=date_night&exclude={exclude}"/> |
 | :-: | :-: |
 
 </div>
@@ -72,9 +72,12 @@
   
 <div>
 
- [![Gmail](https://img.shields.io/badge/Tutamail-FF7372?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:joaoothavio@tutamail.com)
+ [![Tutamail](https://img.shields.io/badge/Tutamail-FF7372?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:joaoothavio@tutamail.com)
+ [![Protonmail](https://img.shields.io/badge/Protonmail-ff7372?style=for-the-badge&logo=Protonmail&logoColor=fff)](mailto:joaoothavio@protonmail.com)
  [![Instagram](https://img.shields.io/badge/Instagram-FF7372?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/joaoothavio__/)
  [![Discord](https://img.shields.io/badge/Discord-FF7372?style=for-the-badge&logo=Discord&logoColor=fff)](https://discordapp.com/users/706616444812525669)
+
+ 
  
 </div>
 
