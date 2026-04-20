@@ -84,7 +84,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-FF7372?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/joaoothavio__/)
  [![Discord](https://img.shields.io/badge/Discord-FF7372?style=for-the-badge&logo=Discord&logoColor=fff)](https://discordapp.com/users/706616444812525669)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7372?style=for-the-badge&logo=Linked&logoColor=fff)](https://www.linkedin.com/in/jo%C3%A3o-oth%C3%A1vio-536a493a5/)
-
+ [![Reddit](https://img.shields.io/badge/Reddit-ff7372?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/I-am-Pocoto/)
 
  
  
