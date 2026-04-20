@@ -30,34 +30,28 @@
 
 <br>
 
+
+
 <!-- Estatísticas -->
 <div align="center">
   <a href="https://github.com/joaoothaviofabri">
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=aura_dark&utcOffset=8&exclude={exclude}) |
-| :-: | :-: |
-  
-</div>
-
-<div align="center">
-  <a href="https://github.com/joaoothaviofabri">
-
-  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) | 
+    
+  | <img height="220em" src="https://github-readme-stats.vercel.app/api?username=joaoothaviofabri&rank_icon=github&theme=date_night"/> | <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoothaviofabri&layout=donut&theme=date_night&hide=jupyter%20notebook"/> |
 | :-: | :-: |
 
 </div>
 
 <div align="center">
   <a href="https://github.com/joaoothaviofabri">
- 
-  |  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=aura_dark&exclude={exclude}) |
-| :-: |
+
+  | <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=date_night&utcOffset=8&exclude={exclude}"/> | <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=date_night&exclude={exclude}"/> |
+| :-: | :-: |
 
 </div>
  
 <!-- Linguagens e Tecnologias -->
 <div align="center" style="display: inline_block"><br>
-   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
@@ -68,6 +62,7 @@
 
  ##
 
+ <!-- Contato -->
 <details>  
   <summary>
       <samp>
@@ -75,10 +70,9 @@
       </samp>
   </summary>
   
- <!-- Contato -->
 <div>
 
- [![Gmail](https://img.shields.io/badge/Gmail-FF7372?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:joaoothavio@tutamail.com)
+ [![Gmail](https://img.shields.io/badge/Tutamail-FF7372?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:joaoothavio@tutamail.com)
  [![Instagram](https://img.shields.io/badge/Instagram-FF7372?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/joaoothavio__/)
  [![Discord](https://img.shields.io/badge/Discord-FF7372?style=for-the-badge&logo=Discord&logoColor=fff)](https://discordapp.com/users/706616444812525669)
  
@@ -92,6 +86,22 @@
   </p>
 </div>
 <br> -->
+
+</details>
+
+ <!-- Repositórios -->
+<details>  
+  <summary>
+      <samp>
+        <b>Repositories</b>
+      </samp>
+  </summary>
+  
+<div align="center">
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoothaviofabri&repo=projetos-pessoais&theme=date_night)](https://github.com/joaoothaviofabri/projetos-pessoais)
+
+</div>
 
  ##
 
