@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF7372&section=header">
+<a href="https://github.com/joaoothaviofabri">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF7372&section=header">
 
 <!-- Gif do Haunter -->
 <div align="center" witdh="100%">
-  <img src="https://imgur.com/VyD8Yvt.png" width="200">
+  <a href="https://github.com/joaoothaviofabri">
+    <img src="https://imgur.com/VyD8Yvt.png" width="200">
 </div>
 
 <!-- Nome e Hack em Japonês -->
@@ -25,12 +27,11 @@
 
 <!-- Pocoto :) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/pocoto_:)-black" />
+  <a href="https://github.com/joaoothaviofabri">
+    <img src="https://img.shields.io/badge/pocoto_:)-black"/>
 </div>
 
 <br>
-
-
 
 <!-- Estatísticas -->
 <div align="center">
@@ -122,4 +123,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaoothaviofabri/joaoothaviofabri/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF7372&section=footer">
+<a href="https://github.com/joaoothaviofabri">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF7372&section=footer">
