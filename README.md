@@ -1,5 +1,5 @@
-<a href="https://github.com/joaoothaviofabri">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF7372&section=header">
+
+##
 
 <!-- Gif do Haunter -->
 <div align="center" witdh="100%">
@@ -36,18 +36,12 @@
 
 <!-- Estatísticas -->
 <div align="center">
-  <a href="https://github.com/joaoothaviofabri">
-    
-  | <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaoothaviofabri&rank_icon=github&theme=date_night"/> | <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoothaviofabri&layout=donut&theme=date_night&hide=jupyter%20notebook"/> |
-| :-: | :-: |
-
+  <img src="https://streak-stats.demolab.com?user=joaoothaviofabri&theme=date_night&border=170F0C&currStreakLabel=DA7885&stroke=FFFFFF&dates=FFFFFF" alt="streak"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/joaoothaviofabri">
 
-  | <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoothaviofabri&theme=date_night&utcOffset=8&exclude={exclude}"/> | <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoothaviofabri&theme=date_night&exclude={exclude}"/> |
-| :-: | :-: |
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=joaoothaviofabri&bg_color=170F0C&color=DA7885&line=DA7885&point=ffffff&area=true&area_color=BB8470&hide_border=false&border_color=2a2a2a&title_color=DA7885"/>
 
 </div>
  
@@ -67,8 +61,6 @@
   <!-- <img width="40" src=" "> -->
 </div>
 
- ##
-
  <!-- Contato -->
 <details>  
   <summary>
@@ -85,8 +77,6 @@
  [![Discord](https://img.shields.io/badge/Discord-FF7372?style=for-the-badge&logo=Discord&logoColor=fff)](https://discordapp.com/users/706616444812525669)
  [![Reddit](https://img.shields.io/badge/Reddit-ff7372?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/I-am-Pocoto/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7372?style=for-the-badge&logo=Linked&logoColor=fff)](https://www.linkedin.com/in/jo%C3%A3o-oth%C3%A1vio-536a493a5/)
-
- 
  
 </div>
 
@@ -121,8 +111,8 @@
 
 <!-- Commits 3d -->
 <div align="center">
-  
-  ![Profile 3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
+  <img height="570em" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
   
 </div>
 
@@ -135,5 +125,4 @@
   </picture>
 </div>
 
-<a href="https://github.com/joaoothaviofabri">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FF7372&section=footer">
+##
