@@ -2,7 +2,7 @@
     {
         "type": "normal",
         "fileName": "date_night.svg",
-        "backgroundColor": "#170F0C",
+        "backgroundColor": "#5A1F2B",
         "foregroundColor": "#F5C2C7",
         "strongColor": "#DA7885",
         "weakColor": "#DA7885",
@@ -19,7 +19,7 @@
     {
         "type": "gitblock",
         "fileName": "night.svg",
-        "backgroundColor": "#170F0C",
+        "backgroundColor": "#5A1F2B",
         "foregroundColor": "#f5c2c7",
         "strongColor": "#DA7885",
         "weakColor": "#DA7885",
