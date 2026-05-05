@@ -114,7 +114,11 @@
 <!-- Commits 3d -->
 <div align="center">
 
-  <img height="570em" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <p align="center" >
+  	<picture>
+  	  <img height="570em" alt="github profile contributions chart" src="https://raw.githubusercontent.com/joaoothaviofabri/joaoothaviofabri/output-3d-contrib/night.svg" />
+  	</picture>
+  </p>
   
 </div>
 
