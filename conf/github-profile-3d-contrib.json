@@ -27,11 +27,11 @@
         "growingAnimation": true,
         "saturation": "50%",
         "contribColors": [
-            "#EFEFEF",
-            "#DA7885",
-            "#C94F68",
-            "#8C2F3F",
-            "#5A1F2B"
+            "20%",
+            "30%",
+            "35%",
+            "40%",
+            "50%"
         ],
         "duration": "10s",
         "hueRatio": -7
