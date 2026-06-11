@@ -62,12 +62,21 @@ TECHNICAL PROFILE
 
 <br>
 
+</div>
+
 <!-- Estatísticas -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoothaviofabri&show_icons=true&rank_icon=github&theme=transparent&bg_color=1A1A18&title_color=D6C6A5&text_color=CFC19F&icon_color=D6C6A5&border_color=3A3935"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoothaviofabri&layout=donut&hide=jupyter%20notebook&theme=transparent&bg_color=1A1A18&title_color=D6C6A5&text_color=CFC19F&icon_color=D6C6A5&border_color=3A3935"/>
+
 </div>
 
 <div align="center">
 
-  <img height="220em" src="https://streak-stats.demolab.com?user=joaoothaviofabri&theme=dark&background=1A1A18&ring=D6C6A5&fire=C2B28F&currStreakLabel=E6D5B8&sideNums=E6D5B8&currStreakNum=FFFFFF&dates=8B867B&stroke=3A3935&border=3A3935"/>
+<img height="220em" src="https://streak-stats.demolab.com?user=joaoothaviofabri&theme=dark&background=1A1A18&ring=D6C6A5&fire=C2B28F&currStreakLabel=E6D5B8&sideNums=E6D5B8&currStreakNum=FFFFFF&dates=8B867B&stroke=3A3935&border=3A3935"/>
+
 </div>
 
 <div align="center">
