@@ -98,7 +98,7 @@ TECHNICAL PROFILE
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg"> 
+  <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"> 
   <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img width="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
